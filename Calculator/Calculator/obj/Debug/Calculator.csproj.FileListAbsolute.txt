@@ -1,0 +1,10 @@
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ideapad 3\OneDrive\Работен плот\PU\1k.3sem\ООП - Павлов-лекции\домашна работа\Calculator\Calculator\obj\Debug\Calculator.pdb
